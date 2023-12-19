@@ -102,4 +102,3 @@ Feel free to contribute to the development of this project! Fork the repository,
 License
 
 This application is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as needed.
-
