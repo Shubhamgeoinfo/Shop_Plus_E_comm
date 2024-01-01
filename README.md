@@ -61,7 +61,7 @@ Configuration
 1. PORT = 8080
 2. DEV_MODE = Development
 3. MONGO_URL = mongodb+srv://shubhamgeoinfo:Password@cluster0.9tw8rlp.mongodb.net/e_comm
-4. JWT_SECRET = SHUBHAMGEOINFO
+4. JWT_SECRET = 
 5. BRAINTREE_MERCHANT_ID = 
 6. BRAINTREE_PUBLIC_KEY = 
 7. BRAINTREE_PRIVATE_KEY = 
